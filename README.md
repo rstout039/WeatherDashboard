@@ -1,5 +1,5 @@
 # WeatherDashboard
-For this activity I created a weather dashboard that is able to track and present a certain locations weather data for 5 days.
+For this activity I created a weather dashboard that is able to track and present a certain locations weather data for 5 days. <br>
 When you search for a city you are presented with current and futre weather conditions for that city.
 In addition, that city is added to your search history.
 When you view weather conditions for the city you are presented with the name of the city, the date, the icon representation of the conditions, temperature, humidity, wind speed, and UV Index.
